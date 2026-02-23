@@ -1,6 +1,6 @@
 # Hey there, I'm Hetal! 👋
 
-I'm an MS Computer Science student at **NYU** (GPA: 3.89) with 3 years of industry experience as a Software Engineer at SLB. I love building things at the intersection of **full-stack development**, **cloud infrastructure**, and **machine learning** — from fine-tuning LLMs to architecting distributed systems that handle millions of records.
+I'm a Computer Science student at **NYU** (GPA: 3.89) with 3 years of industry experience as a Software Engineer at SLB. I love building things at the intersection of **full-stack development**, **cloud infrastructure**, and **machine learning** — from fine-tuning LLMs to architecting distributed systems that handle millions of records.
 
 Previously, I worked on high-availability payroll systems serving 1M+ employees across 14 countries. Now I'm deep in grad school, shipping projects across ML, cloud, and systems programming.
 
