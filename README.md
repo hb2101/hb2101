@@ -65,7 +65,7 @@ Production-ready FastAPI + PostgreSQL + Kafka microservice for real-time market 
 
 ### 🔎 Message Search Engine
 Sub-1ms full-text search API over 3,349 cached messages, 100x faster than the 100ms requirement. Built with FastAPI and an in-memory cache with auto-retry exponential backoff. Deployed live on Render.
-[🔗 Live Demo](https://message-search-engine-pp0y.onrender.com) | `FastAPI` `Python` `Render`
+`FastAPI` `Python` `Render`
 
 ### 🕷️ Image Domain Crawler
 Multithreaded Java web crawler (JSoup) that extracts all image URLs from a given domain, with rate limiting, URL deduplication, depth control, and a clean frontend UI. Configurable concurrency, crawl depth, and politeness delay.
